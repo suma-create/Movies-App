@@ -1,0 +1,31 @@
+.bg-detail {
+  background-color: #181818;
+
+  color: blue;
+}
+
+h1 {
+  color: #94a3b8;
+}
+
+.h1 {
+  color: #ffffff;
+}
+
+.detail-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detail-card2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.box {
+  width: 31px;
+  height: 23px;
+}
